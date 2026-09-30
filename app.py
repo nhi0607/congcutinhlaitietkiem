@@ -1,0 +1,1 @@
+viết code chạy trên streamlit tạo app tính lãi gửi tiết kiệm theo lãi đơn và lãi kép, có chọn hình thức: lãnh lãi theo tháng, lãnh lãi theo quý, lãnh lãi cuối kỳ. người dùng nhập: số tiền gửi, kỳ hạn, chọn hình thức gửi, lãi suất. kết quả hiển thị: tiền lãi định kỳ,tổng tiền lãi, tổng số tiền gốc và lãi. viết code hoàn chỉnh để copy chạy trong file app.py
