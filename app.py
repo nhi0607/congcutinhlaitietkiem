@@ -1,5 +1,5 @@
 import streamlit as st
-
+st.image("barbie.webp")
 st.set_page_config(
     page_title="Tính lãi tiền gửi tiết kiệm",
     page_icon="💰",
